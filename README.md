@@ -2,7 +2,7 @@
 
 If you find any related paper, please kindly let me know. I will keep updating the page. Thanks for your valuable contribution. 
 
-## Classification
+## I. Classification
 ### 1. MSR-Action3D
 | No. | Method                                                                   |      4      |      8      |      12     |      16     |    20       |      24     |
 | ----| ------------------------------------------------------------------------ | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -35,7 +35,7 @@ If you find any related paper, please kindly let me know. I will keep updating t
 | 5   | [SequentialPointNet](https://github.com/XingLi1012/SequentialPointNet)    |      83.5   |     95.4    |
 
 
-## Segmentation
+## II. Segmentation
 ### 1. Synthia 4D
 | No. | Method                                                                        | mIoU (3 frames) |
 | ----| ----------------------------------------------------------------------------- | --------------- |
@@ -52,7 +52,7 @@ If you find any related paper, please kindly let me know. I will keep updating t
 | 1   | SpSequenceNet: Semantic Segmentation Network on 4D Point Clouds                                                              |    CVPR'20      |
 | 2   | LiDAR-based Recurrent 3D Semantic Segmentation with Temporal Memory Alignment                                                |    3DV'20       |
 
-## Other Work
+## III. Other Task
 | No. | Paper Title                                                                                                                  |      Venue      |
 | ----|------------------------------------------------------------------------------------------------------------------------------| --------------- |
 | 1   | Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net         |    CVPR'18      |
