@@ -1,8 +1,9 @@
 # Awesome Dynamic Point Cloud / Point Cloud Video / Point Cloud Sequence / 4D Point Cloud Analysis
 
 If you find any related paper, please kindly let me know. I will keep updating the page. Thanks for your valuable contribution. 
+For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene Flow](https://github.com/MaxChanger/awesome-point-cloud-scene-flow).
 
-## I. Classification
+## I. Video/Sqeuence-level Classification
 ### 1. MSR-Action3D
 | No. | Method                                                                   |      4      |      8      |      12     |      16     |    20       |      24     |
 | ----| ------------------------------------------------------------------------ | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -35,7 +36,7 @@ If you find any related paper, please kindly let me know. I will keep updating t
 | 5   | [SequentialPointNet](https://github.com/XingLi1012/SequentialPointNet)    |      83.5   |     95.4    |
 
 
-## II. Segmentation
+## II. Point-level Segmentation
 ### 1. Synthia 4D
 | No. | Method                                                                        | mIoU (3 frames) |
 | ----| ----------------------------------------------------------------------------- | --------------- |
@@ -51,6 +52,7 @@ If you find any related paper, please kindly let me know. I will keep updating t
 | ----|------------------------------------------------------------------------------------------------------------------------------| --------------- |
 | 1   | SpSequenceNet: Semantic Segmentation Network on 4D Point Clouds                                                              |    CVPR'20      |
 | 2   | LiDAR-based Recurrent 3D Semantic Segmentation with Temporal Memory Alignment                                                |    3DV'20       |
+| 3   | [4D Panoptic LiDAR Segmentation](https://github.com/MehmetAygun/4D-PLS)                                                      |    CVPR'21      |
 
 ## III. Other Task
 | No. | Paper Title                                                                                                                  |      Venue      |
@@ -60,3 +62,4 @@ If you find any related paper, please kindly let me know. I will keep updating t
 | 3   | Tranquil Clouds: Neural Networks for Learning Temporally Coherent Features in Point Clouds                                   |    ICLR'20      | 
 | 4   | CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations                                                         |    NeurIPS'20   |
 | 5   | Learning Scene Dynamics from Point Cloud Sequences                                                                           |    IJCV'21      |
+| 6   | [Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data](https://github.com/PRBonn/LiDAR-MOS) | RAL'21 |
