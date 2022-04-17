@@ -1,6 +1,7 @@
 # Awesome Dynamic Point Cloud / Point Cloud Video / Point Cloud Sequence / 4D Point Cloud Analysis
 
 If you find any related paper, please kindly let me know. I will keep updating the page. Thanks for your valuable contribution. 
+
 For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene Flow](https://github.com/MaxChanger/awesome-point-cloud-scene-flow).
 
 ## I. Video/Sqeuence-level Classification
@@ -13,6 +14,7 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 4   | [SequentialPointNet](https://github.com/XingLi1012/SequentialPointNet)   |    77.66    |    86.45    |    88.64    |    89.56    |    91.21    |    91.94    |
 | 5   | [PSTNet++](https://github.com/hehefan/PSTNet2)                           |    81.53    |    83.50    |    88.15    |    90.24    |      -      |    92.68    |
 | 6   | Anchor-Based Spatio-Temporal Attention                                   |    80.13    |    87.54    |    89.90    |    91.24    |      -      |    93.03    |
+| 7   | [Kinet](https://github.com/jx-zhong-for-academic-purpose/Kinet)          |    79.80    |    83.84    |    88.53    |    91.92    |      -      |    93.27    |
 
 
 ### 2. NTU RBG+D 60
@@ -23,6 +25,7 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 3   | [PSTNet](https://github.com/hehefan/Point-Spatio-Temporal-Convolution)    |      90.5   |     96.5    |
 | 4   | [PSTNet++](https://github.com/hehefan/PSTNet2)                            |      91.4   |     96.7    |
 | 5   | [SequentialPointNet](https://github.com/XingLi1012/SequentialPointNet)    |      90.3   |     97.6    |
+| 6   | [Kinet](https://github.com/jx-zhong-for-academic-purpose/Kinet)           |      92.3   |     96.4    |
 
 
 
@@ -63,3 +66,6 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 4   | CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations                                                         |    NeurIPS'20   |
 | 5   | Learning Scene Dynamics from Point Cloud Sequences                                                                           |    IJCV'21      |
 | 6   | [Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data](https://github.com/PRBonn/LiDAR-MOS) | RAL'21 |
+| 7   | TPU-GAN: Learning Temporal Coherence From Dynamic Point Cloud Sequences                                                      |    ICLR'22      |
+| 8   | HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction                                                   |    CVPR'22      |
+| 9   | IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment                                                  |    CVPR'22      |
