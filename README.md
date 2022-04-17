@@ -61,11 +61,12 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | No. | Paper Title                                                                                                                  |      Venue      |
 | ----|------------------------------------------------------------------------------------------------------------------------------| --------------- |
 | 1   | Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net         |    CVPR'18      |
-| 2   | Occupancy Flow: 4D Reconstruction by Learning Particle Dynamics                                                              |    ICCV'19      |
-| 3   | Tranquil Clouds: Neural Networks for Learning Temporally Coherent Features in Point Clouds                                   |    ICLR'20      | 
-| 4   | CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations                                                         |    NeurIPS'20   |
-| 5   | Learning Scene Dynamics from Point Cloud Sequences                                                                           |    IJCV'21      |
-| 6   | [Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data](https://github.com/PRBonn/LiDAR-MOS) | RAL'21 |
-| 7   | TPU-GAN: Learning Temporal Coherence From Dynamic Point Cloud Sequences                                                      |    ICLR'22      |
-| 8   | HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction                                                   |    CVPR'22      |
-| 9   | IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment                                                  |    CVPR'22      |
+| 2   | [PointRNN: Point Recurrent Neural Network for Moving Point Cloud Processing](https://github.com/hehefan/PointRNN)            |    arXiv'19     |
+| 3   | [Occupancy Flow: 4D Reconstruction by Learning Particle Dynamics](https://github.com/autonomousvision/occupancy_flow)        |    ICCV'19      |
+| 4   | [Tranquil Clouds: Neural Networks for Learning Temporally Coherent Features in Point Clouds](https://ge.in.tum.de/publications/2020-iclr-prantl/)  |ICLR'20| 
+| 5   | [CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations](https://geometry.stanford.edu/projects/caspr/)        |    NeurIPS'20   |
+| 6   | [Learning Scene Dynamics from Point Cloud Sequences](https://github.com/BestSonny/SPCM)                                      |    IJCV'21      |
+| 7   | [Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data](https://github.com/PRBonn/LiDAR-MOS) | RAL'21 |
+| 8   | TPU-GAN: Learning Temporal Coherence From Dynamic Point Cloud Sequences                                                      |    ICLR'22      |
+| 9   | [HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction](https://hoi4d.github.io)                        |    CVPR'22      |
+| 10  | [IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment](https://github.com/ZENGYIMING-EAMON/IDEA-Net)  |    CVPR'22      |
