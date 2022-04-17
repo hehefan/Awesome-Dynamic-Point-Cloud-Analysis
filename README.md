@@ -56,6 +56,7 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 1   | SpSequenceNet: Semantic Segmentation Network on 4D Point Clouds                                                              |    CVPR'20      |
 | 2   | LiDAR-based Recurrent 3D Semantic Segmentation with Temporal Memory Alignment                                                |    3DV'20       |
 | 3   | [4D Panoptic LiDAR Segmentation](https://github.com/MehmetAygun/4D-PLS)                                                      |    CVPR'21      |
+| 4   | [LiDAR-based 4D Panoptic Segmentation via Dynamic Shifting Network](https://github.com/hongfz16/DS-Net)                                                      |    CVPR'21      |
 
 ## III. Other Task
 | No. | Paper Title                                                                                                                  |      Venue      |
@@ -70,3 +71,4 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 8   | TPU-GAN: Learning Temporal Coherence From Dynamic Point Cloud Sequences                                                      |    ICLR'22      |
 | 9   | [HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction](https://hoi4d.github.io)                        |    CVPR'22      |
 | 10  | [IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment](https://github.com/ZENGYIMING-EAMON/IDEA-Net)  |    CVPR'22      |
+| 11  | [Self-supervised Point Cloud Prediction Using 3D Spatio-temporal Convolutional Networks](https://github.com/PRBonn/point-cloud-prediction)  |    CoRL'21      |
