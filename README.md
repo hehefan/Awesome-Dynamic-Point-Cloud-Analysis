@@ -42,6 +42,20 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 6   | [SequentialPointNet](https://github.com/XingLi1012/SequentialPointNet)    |      83.5   |     95.4    |
 
 
+### 4. SHREC'17
+| No. | Method                                                                    | Acc         |
+| ----| ------------------------------------------------------------------------- | ----------- | 
+| 1   | [PointLSTM (Min et al.)](https://github.com/ycmin95/pointlstm-gesture-recognition-pytorch)  | 94.7    |
+| 2   | [Kinet](https://github.com/jx-zhong-for-academic-purpose/Kinet)           |   95.2      |
+
+### 5. NvGesture
+| No. | Method                                                                    | Acc         |
+| ----| ------------------------------------------------------------------------- | ----------- | 
+| 1   | FlickerNet                                                                | 86.3        |
+| 2   | [PointLSTM (Min et al.)](https://github.com/ycmin95/pointlstm-gesture-recognition-pytorch)  | 87.5    |
+| 3   | [Kinet](https://github.com/jx-zhong-for-academic-purpose/Kinet)           |  89.1       |
+
+
 ## II. Point-level Segmentation
 ### 1. Synthia 4D
 | No. | Method                                                                        | mIoU (3 frames) |
@@ -64,6 +78,7 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 2   | LiDAR-based Recurrent 3D Semantic Segmentation with Temporal Memory Alignment                                                |    3DV'20       |
 | 3   | [4D Panoptic LiDAR Segmentation](https://github.com/MehmetAygun/4D-PLS)                                                      |    CVPR'21      |
 | 4   | Spatial-Temporal Transformer for 3D Point Cloud Sequences (PST<sup>2</sup>)                                                  |    WACV'22      |
+| 5   | [LiDAR-based 4D Panoptic Segmentation via Dynamic Shifting Network](https://github.com/hongfz16/DS-Net)                      |    arXiv'22     |
 
 ## III. Other Task
 | No. | Paper Title                                                                                                                  |      Venue      |
@@ -76,6 +91,7 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 6   | [Learning Scene Dynamics from Point Cloud Sequences](https://github.com/BestSonny/SPCM)                                      |    IJCV'21      |
 | 7   | [Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data](https://github.com/PRBonn/LiDAR-MOS) | RAL'21 |
 | 8   | [PointINet: Point Cloud Frame Interpolation Network](https://github.com/ispc-lab/PointINet)                                  |    AAAI'21      |
-| 9   | TPU-GAN: Learning Temporal Coherence From Dynamic Point Cloud Sequences                                                      |    ICLR'22      |
-| 10  | [HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction](https://hoi4d.github.io)                        |    CVPR'22      |
-| 11  | [IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment](https://github.com/ZENGYIMING-EAMON/IDEA-Net)  |    CVPR'22      |
+| 9   | [Self-supervised Point Cloud Prediction Using 3D Spatio-temporal Convolutional Networks](https://github.com/PRBonn/point-cloud-prediction) | CoRL'21 |
+| 10   | TPU-GAN: Learning Temporal Coherence From Dynamic Point Cloud Sequences                                                     |    ICLR'22      |
+| 11  | [HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction](https://hoi4d.github.io)                        |    CVPR'22      |
+| 12  | [IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment](https://github.com/ZENGYIMING-EAMON/IDEA-Net)  |    CVPR'22      |
