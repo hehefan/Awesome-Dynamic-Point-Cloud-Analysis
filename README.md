@@ -16,8 +16,7 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 6   | Anchor-Based Spatio-Temporal Attention                                   |    80.13    |    87.54    |    89.90    |    91.24    |      -      |    93.03    |
 | 7   | [PST-Transformer](https://github.com/hehefan/PST-Transformer)            |    81.14   |     83.97    |    88.15    |    91.98    |      -      |93.73    |
 | 8   | [Kinet](https://github.com/jx-zhong-for-academic-purpose/Kinet)          |    79.80    |    83.84    |    88.53    |    91.92    |      -      |    93.27    |
-| 9   | PST<sup>2</sup> (MeteorNet + STSA)                                       |    81.14    |    86.53    |    88.55    |    89.22    |      -      |
-   -        | 
+| 9   | PST<sup>2</sup> (MeteorNet + STSA)                                       |    81.14    |    86.53    |    88.55    |    89.22    |      -      | -  | 
 
 ### 2. NTU RBG+D 60
 | No. | Method                                                                    | Cross Subject | Cross View  |
