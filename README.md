@@ -14,8 +14,11 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 4   | [SequentialPointNet](https://github.com/XingLi1012/SequentialPointNet)   |    77.66    |    86.45    |    88.64    |    89.56    |    91.21    |    91.94    |
 | 5   | [PSTNet++](https://github.com/hehefan/PSTNet2)                           |    81.53    |    83.50    |    88.15    |    90.24    |      -      |    92.68    |
 | 6   | Anchor-Based Spatio-Temporal Attention                                   |    80.13    |    87.54    |    89.90    |    91.24    |      -      |    93.03    |
-| 7   | [Kinet](https://github.com/jx-zhong-for-academic-purpose/Kinet)          |    79.80    |    83.84    |    88.53    |    91.92    |      -      |    93.27    |
-
+| 7   | [PST-Transformer](https://github.com/hehefan/PST-Transformer)            |    81.14   |     83.97    |    88.15    |    91.98    |      -      |
+   93.73    |
+| 8   | [Kinet](https://github.com/jx-zhong-for-academic-purpose/Kinet)          |    79.80    |    83.84    |    88.53    |    91.92    |      -      |    93.27    |
+| 9   | PST<sup>2</sup> (MeteorNet + STSA)                                       |    81.14    |    86.53    |    88.55    |    89.22    |      -      |
+   -        | 
 
 ### 2. NTU RBG+D 60
 | No. | Method                                                                    | Cross Subject | Cross View  |
@@ -24,8 +27,9 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 2   | [P4Transformer](https://github.com/hehefan/P4Transformer)                 |      90.2   |     96.4    |
 | 3   | [PSTNet](https://github.com/hehefan/Point-Spatio-Temporal-Convolution)    |      90.5   |     96.5    |
 | 4   | [PSTNet++](https://github.com/hehefan/PSTNet2)                            |      91.4   |     96.7    |
-| 5   | [SequentialPointNet](https://github.com/XingLi1012/SequentialPointNet)    |      90.3   |     97.6    |
-| 6   | [Kinet](https://github.com/jx-zhong-for-academic-purpose/Kinet)           |      92.3   |     96.4    |
+| 5   | [PST-Transformer](https://github.com/hehefan/PST-Transformer)             |      91.0   |     96.4    |
+| 6   | [SequentialPointNet](https://github.com/XingLi1012/SequentialPointNet)    |      90.3   |     97.6    |
+| 7   | [Kinet](https://github.com/jx-zhong-for-academic-purpose/Kinet)           |      92.3   |     96.4    |
 
 
 
@@ -36,7 +40,8 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 2   | [P4Transformer](https://github.com/hehefan/P4Transformer)                 |      86.4   |     93.5    |
 | 3   | [PSTNet](https://github.com/hehefan/Point-Spatio-Temporal-Convolution)    |      87.0   |     93.8    |
 | 4   | [PSTNet++](https://github.com/hehefan/PSTNet2)                            |      88.6   |     93.8    |
-| 5   | [SequentialPointNet](https://github.com/XingLi1012/SequentialPointNet)    |      83.5   |     95.4    |
+| 5   | [PST-Transformer](https://github.com/hehefan/PST-Transformer)             |      87.5   |     94.0    |
+| 6   | [SequentialPointNet](https://github.com/XingLi1012/SequentialPointNet)    |      83.5   |     95.4    |
 
 
 ## II. Point-level Segmentation
@@ -49,13 +54,18 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 4   | [PSTNet++](https://github.com/hehefan/PSTNet2)                                |      82.60      |
 | 5   | [ASAP-Net](https://github.com/intrepidChw/ASAP-Net)                           |      82.73      |
 | 6   | [P4Transformer](https://github.com/hehefan/P4Transformer)                     |      83.16      |
-| 7   | Anchor-Based Spatio-Temporal Attention                                        |      84.77      |
+| 7   | [PST-Transformer](https://github.com/hehefan/PST-Transformer)                 |      83.95      |
+| 8   | Anchor-Based Spatio-Temporal Attention                                        |      84.77      |
+| 9   | PST<sup>2</sup>                                                               |      81.86      |
+
+
 ### 2. [SemanticKITTI](http://www.semantic-kitti.org/tasks.html#semseg)
 | No. | Paper Title                                                                                                                  |      Venue      |
 | ----|------------------------------------------------------------------------------------------------------------------------------| --------------- |
 | 1   | SpSequenceNet: Semantic Segmentation Network on 4D Point Clouds                                                              |    CVPR'20      |
 | 2   | LiDAR-based Recurrent 3D Semantic Segmentation with Temporal Memory Alignment                                                |    3DV'20       |
 | 3   | [4D Panoptic LiDAR Segmentation](https://github.com/MehmetAygun/4D-PLS)                                                      |    CVPR'21      |
+| 4   | Spatial-Temporal Transformer for 3D Point Cloud Sequences (PST<sup>2</sup>)                                                  |    WACV'22      |
 
 ## III. Other Task
 | No. | Paper Title                                                                                                                  |      Venue      |
@@ -67,6 +77,7 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 5   | [CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations](https://geometry.stanford.edu/projects/caspr/)        |    NeurIPS'20   |
 | 6   | [Learning Scene Dynamics from Point Cloud Sequences](https://github.com/BestSonny/SPCM)                                      |    IJCV'21      |
 | 7   | [Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data](https://github.com/PRBonn/LiDAR-MOS) | RAL'21 |
-| 8   | TPU-GAN: Learning Temporal Coherence From Dynamic Point Cloud Sequences                                                      |    ICLR'22      |
-| 9   | [HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction](https://hoi4d.github.io)                        |    CVPR'22      |
-| 10  | [IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment](https://github.com/ZENGYIMING-EAMON/IDEA-Net)  |    CVPR'22      |
+| 8   | [PointINet: Point Cloud Frame Interpolation Network](https://github.com/ispc-lab/PointINet)                                  |    AAAI'21      |
+| 9   | TPU-GAN: Learning Temporal Coherence From Dynamic Point Cloud Sequences                                                      |    ICLR'22      |
+| 10  | [HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction](https://hoi4d.github.io)                        |    CVPR'22      |
+| 11  | [IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment](https://github.com/ZENGYIMING-EAMON/IDEA-Net)  |    CVPR'22      |
