@@ -95,3 +95,4 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 10   | TPU-GAN: Learning Temporal Coherence From Dynamic Point Cloud Sequences                                                     |    ICLR'22      |
 | 11  | [HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction](https://hoi4d.github.io)                        |    CVPR'22      |
 | 12  | [IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment](https://github.com/ZENGYIMING-EAMON/IDEA-Net)  |    CVPR'22      |
+| 13  | Dynamic Point Cloud Compression with Cross-Sectional Approach                                                                |    arXiv'22     |     
