@@ -79,8 +79,9 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 1   | SpSequenceNet: Semantic Segmentation Network on 4D Point Clouds                                                              |    CVPR'20      |
 | 2   | LiDAR-based Recurrent 3D Semantic Segmentation with Temporal Memory Alignment                                                |    3DV'20       |
 | 3   | [4D Panoptic LiDAR Segmentation](https://github.com/MehmetAygun/4D-PLS)                                                      |    CVPR'21      |
-| 4   | Spatial-Temporal Transformer for 3D Point Cloud Sequences (PST<sup>2</sup>)                                                  |    WACV'22      |
-| 5   | [LiDAR-based 4D Panoptic Segmentation via Dynamic Shifting Network](https://github.com/hongfz16/DS-Net)                      |    arXiv'22     |
+| 4   | [LiDAR-based 4D Panoptic Segmentation via Dynamic Shifting Network](https://github.com/hongfz16/DS-Net)                      |    ICCV'21      |
+| 5   | Spatial-Temporal Transformer for 3D Point Cloud Sequences (PST<sup>2</sup>)                                                  |    WACV'22      |
+
 
 ## III. Other Task
 | No. | Paper Title                                                                                                                  |      Venue      |
