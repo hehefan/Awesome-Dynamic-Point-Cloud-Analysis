@@ -28,6 +28,7 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 5   | [PST-Transformer](https://github.com/hehefan/PST-Transformer)             |      91.0   |     96.4    |
 | 6   | [SequentialPointNet](https://github.com/XingLi1012/SequentialPointNet)    |      90.3   |     97.6    |
 | 7   | [Kinet](https://github.com/jx-zhong-for-academic-purpose/Kinet)           |      92.3   |     96.4    |
+| 8   | GeometryMotion-Net                                                        |      92.7   |     98.9    |
 
 
 
@@ -40,6 +41,7 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 4   | [PSTNet++](https://github.com/hehefan/PSTNet2)                            |      88.6   |     93.8    |
 | 5   | [PST-Transformer](https://github.com/hehefan/PST-Transformer)             |      87.5   |     94.0    |
 | 6   | [SequentialPointNet](https://github.com/XingLi1012/SequentialPointNet)    |      83.5   |     95.4    |
+| 7   | GeometryMotion-Net                                                        |      90.1   |     93.6    |
 
 
 ### 4. SHREC'17
@@ -92,7 +94,10 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 7   | [Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data](https://github.com/PRBonn/LiDAR-MOS) | RAL'21 |
 | 8   | [PointINet: Point Cloud Frame Interpolation Network](https://github.com/ispc-lab/PointINet)                                  |    AAAI'21      |
 | 9   | [Self-supervised Point Cloud Prediction Using 3D Spatio-temporal Convolutional Networks](https://github.com/PRBonn/point-cloud-prediction) | CoRL'21 |
-| 10   | TPU-GAN: Learning Temporal Coherence From Dynamic Point Cloud Sequences                                                     |    ICLR'22      |
+| 10  | TPU-GAN: Learning Temporal Coherence From Dynamic Point Cloud Sequences                                                      |    ICLR'22      |
 | 11  | [HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction](https://hoi4d.github.io)                        |    CVPR'22      |
 | 12  | [IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment](https://github.com/ZENGYIMING-EAMON/IDEA-Net)  |    CVPR'22      |
 | 13  | Dynamic Point Cloud Compression with Cross-Sectional Approach                                                                |    arXiv'22     |     
+| 14  | [Fixing Malfunctional Objects With Learned Physical Simulation and Functional Prediction](http://fixing-malfunctional.csail.mit.edu)  |    CVPR'22      |  
+| 15  | PointMotionNet: Point-Wise Motion Learning for Large-Scale LiDAR Point Clouds Sequences                                      |    CVPR'22      |
+
