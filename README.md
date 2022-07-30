@@ -101,4 +101,5 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 13  | Dynamic Point Cloud Compression with Cross-Sectional Approach                                                                |    arXiv'22     |     
 | 14  | [Fixing Malfunctional Objects With Learned Physical Simulation and Functional Prediction](http://fixing-malfunctional.csail.mit.edu)  |    CVPR'22      |  
 | 15  | PointMotionNet: Point-Wise Motion Learning for Large-Scale LiDAR Point Clouds Sequences                                      |    CVPR'22      |
+| 16  | LiDARCap: Long-range Marker-less 3D Human Motion Capture with LiDAR Point Clouds                                             |    CVPR'22      |
 
