@@ -29,6 +29,7 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 6   | [SequentialPointNet](https://github.com/XingLi1012/SequentialPointNet)    |      90.3   |     97.6    |
 | 7   | [Kinet](https://github.com/jx-zhong-for-academic-purpose/Kinet)           |      92.3   |     96.4    |
 | 8   | GeometryMotion-Net                                                        |      92.7   |     98.9    |
+| 9   | GeometryMotion-Transformer                                                |      93.7   |     99.0    |
 
 
 
@@ -42,6 +43,7 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 5   | [PST-Transformer](https://github.com/hehefan/PST-Transformer)             |      87.5   |     94.0    |
 | 6   | [SequentialPointNet](https://github.com/XingLi1012/SequentialPointNet)    |      83.5   |     95.4    |
 | 7   | GeometryMotion-Net                                                        |      90.1   |     93.6    |
+| 8   | GeometryMotion-Transformer                                                |      90.4   |     93.8    |
 
 
 ### 4. SHREC'17
@@ -102,4 +104,5 @@ For two-frame sence flow estimation, please refer to [Awesome Point Cloud Scene 
 | 14  | [Fixing Malfunctional Objects With Learned Physical Simulation and Functional Prediction](http://fixing-malfunctional.csail.mit.edu)  |    CVPR'22      |  
 | 15  | PointMotionNet: Point-Wise Motion Learning for Large-Scale LiDAR Point Clouds Sequences                                      |    CVPR'22      |
 | 16  | LiDARCap: Long-range Marker-less 3D Human Motion Capture with LiDAR Point Clouds                                             |    CVPR'22      |
+| 17  | Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding                                                 |    ECCV'22      |
 
